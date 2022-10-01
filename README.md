@@ -15,3 +15,6 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+
+### 🦖 Holopin
+[![@mmaul's Holopin board](https://holopin.io/api/user/board?user=mmaul)](https://holopin.io/@mmaul)
