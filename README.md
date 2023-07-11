@@ -11,7 +11,6 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=mmaul8&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mmaul8&theme=nightowl&hide_border=true)<br/>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### Watch my contribution graph get eaten by the snake 🐍
 ![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
